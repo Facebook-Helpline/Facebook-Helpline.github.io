@@ -1,6 +1,5 @@
-# Facebook
 <div class="container">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Facebook_New_Logo_%282015%29.svg/300px-Facebook_New_Logo_%282015%29.svg.png"></img>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Facebook_New_Logo_%282015%29.svg/300px-Facebook_New_Logo_%282015%29.svg.png">
     <h1>Facebook Customer Service</h1>
 	<h2>Solve Your Query Now</h2>
     <p>Welcome to Facebook Customer Service.</p>
